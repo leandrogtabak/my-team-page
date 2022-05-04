@@ -60,4 +60,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@leandrogtabak](https://github.com/leandrogtabak/)
-- Twitter [@LeandroTabak](https://https://twitter.com/leandrotabak)
+- Twitter [@LeandroTabak](https://twitter.com/leandrotabak)
