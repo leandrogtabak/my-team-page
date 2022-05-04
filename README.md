@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/leandrogtabak/my-team-page/blob/master/demo.jpeg">
+    <a href="https://leandrogtabak.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://leandrogtabak.github.io/my-team-page/">
+    <a href="https://github.com/leandrogtabak/my-team-page">
       Solution
     </a>
     <span> | </span>
